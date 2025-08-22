@@ -1,4 +1,5 @@
- {
+[
+   {
     "name": "KrishiSevak",
     "desc": "Java-based agricultural platform (KrishiSevak) with backend services and domain-specific features.",
     "image": "KrishiSevak",
@@ -51,7 +52,7 @@
   {
     "name": "community-mocks",
     "desc": "Fork containing community mocks and tests for Microcks hub (community contribution).",
-    "image": "community-mocks",
+    "image": "microcks",
     "category": "microcks",
     "links": {
       "view": "https://github.com/vickybesra/community-mocks",
@@ -61,7 +62,7 @@
   {
     "name": "microcks-quickstarters",
     "desc": "Forked quickstarter templates to bootstrap Microcks mocks and testing projects quickly.",
-    "image": "microcks-quickstarters",
+    "image": "microcks",
     "category": "microcks",
     "links": {
       "view": "https://github.com/vickybesra/microcks-quickstarters",
@@ -71,7 +72,7 @@
   {
     "name": "hub.microcks.io",
     "desc": "Fork of the Microcks community hub site — resources and examples for the Microcks project.",
-    "image": "hub.microcks.io",
+    "image": "microcks",
     "category": "microcks",
     "links": {
       "view": "https://github.com/vickybesra/hub.microcks.io",
@@ -81,7 +82,7 @@
   {
     "name": "microcks.io",
     "desc": "Forked microcks.io website resources and templates for API mocking/testing docs and site content.",
-    "image": "microcks.io",
+    "image": "microcks",
     "category": "website",
     "links": {
       "view": "https://github.com/vickybesra/microcks.io",
@@ -101,7 +102,7 @@
   {
     "name": "microcks2.io",
     "desc": "Site/resources repo related to Microcks (alternate/experimental site copy).",
-    "image": "microcks2.io",
+    "image": "microcks",
     "category": "microcks",
     "links": {
       "view": "https://github.com/vickybesra/microcks2.io",
@@ -111,7 +112,7 @@
   {
     "name": "microcks_hub",
     "desc": "Svelte-based hub or dashboard for Microcks community content and examples.",
-    "image": "microcks_hub",
+    "image": "microcks",
     "category": "svelte",
     "links": {
       "view": "https://github.com/vickybesra/microcks_hub",

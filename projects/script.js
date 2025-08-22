@@ -29,25 +29,23 @@ document.addEventListener('visibilitychange',
         }
     });
 
-
 // fetch projects start
 function getProjects() {
     return fetch("projects.json")
         .then(response => response.json())
         .then(data => {
-            return data
+            // remove image fields so images won't be fetched/used
+            data.forEach(project => { if (project.image) delete project.image; });
+            return data;
         });
 }
-
-
 function showProjects(projects) {
     let projectsContainer = document.querySelector(".project .box-container");
     let projectsHTML = "";
     projects.forEach(project => {
         projectsHTML += `
         <div class="grid-item ${project.category}">
-        <div class="box tilt" style="width: 380px; margin: 1rem">
-    //   <img draggable="false" src="/assets/images/projects/${project.image}.png" alt="project" />
+        <div class="box tilt" style="width: 380px; margin: 1rem">git
       <div class="content">
         <div class="tag">
         <h3>${project.name}</h3>

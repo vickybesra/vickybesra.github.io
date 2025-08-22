@@ -663,20 +663,17 @@ header .navbar ul li a:hover {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
   position: relative;
   overflow: hidden;
-  height: 30rem;
-}
-.project .box-container .box img {
-  height: 100%;
-  width: 100%;
-  object-fit: cover;
+  height: auto;
+  min-height: 20rem;
+  background: rgba(255, 255, 255, 0.9);
 }
 .project .box-container .box .content {
   height: 100%;
   width: 100%;
-  position: absolute;
-  top: 85%;
+  position: relative;
+  top: 0;
   left: 0;
-  background: rgba(255, 255, 255, 0.9);
+  background: transparent;
   display: flex;
   flex-direction: column;
 }
@@ -694,7 +691,8 @@ header .navbar ul li a:hover {
   font-size: 2rem;
 }
 .project .box-container .box:hover .content {
-  top: 25%;
+  transform: scale(1.02);
+  transition: transform 0.3s ease;
 }
 .project .desc {
   margin: 2rem;

@@ -107,10 +107,13 @@ function showSkills(skills) {
 function showProjects(projects) {
     let projectsContainer = document.querySelector("#project .box-container");
     let projectHTML = "";
-    projects.slice(0, 10).filter(project => project.category != "android").forEach(project => {
+    
+    // Show only selected key projects - limiting to 6 most important ones
+    const selectedProjects = ["KrishiSevak", "k8-kind-voting-app", "devops-demo-project", "chat_cluster", "microcks", "go-chat-app"];
+    
+    projects.filter(project => selectedProjects.includes(project.name)).forEach(project => {
         projectHTML += `
         <div class="box tilt">
-      <img draggable="false" src="/assets/images/projects/${project.image}.png" alt="project" />
       <div class="content">
         <div class="tag">
         <h3>${project.name}</h3>

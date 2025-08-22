@@ -1,0 +1,271 @@
+ {
+    "name": "KrishiSevak",
+    "desc": "Java-based agricultural platform (KrishiSevak) with backend services and domain-specific features.",
+    "image": "KrishiSevak",
+    "category": ".KrishiSevak",
+    "links": {
+      "view": "https://github.com/vickybesra/KrishiSevak",
+      "code": "https://github.com/vickybesra/KrishiSevak"
+    }
+  },
+  {
+    "name": "k8-kind-voting-app",
+    "desc": "Kubernetes-focused demo voting app using kind for local clusters — demo for k8s workflows.",
+    "image": "k8-kind-voting-app",
+    "category": ".voting",
+    "links": {
+      "view": "https://github.com/vickybesra/k8-kind-voting-app",
+      "code": "https://github.com/vickybesra/k8-kind-voting-app"
+    }
+  },
+  {
+    "name": "vickybesra",
+    "desc": "A repository named after your username — likely contains personal notes, dotfiles, or experiments.",
+    "image": "vickybesra-repo",
+    "category": "utility",
+    "links": {
+      "view": "https://github.com/vickybesra/vickybesra",
+      "code": "https://github.com/vickybesra/vickybesra"
+    }
+  },
+  {
+    "name": "devops-demo-project",
+    "desc": "Demo project showcasing DevOps CI/CD pipelines, infrastructure configs and automation examples.",
+    "image": "devops-demo-project",
+    "category": "devops",
+    "links": {
+      "view": "https://github.com/vickybesra/devops-demo-project",
+      "code": "https://github.com/vickybesra/devops-demo-project"
+    }
+  },
+  {
+    "name": "chat_cluster",
+    "desc": "Chat cluster / chat app experiments in JavaScript for testing realtime & clustering ideas.",
+    "image": "chat_cluster",
+    "category": "cluster",
+    "links": {
+      "view": "https://github.com/vickybesra/chat_cluster",
+      "code": "https://github.com/vickybesra/chat_cluster"
+    }
+  },
+  {
+    "name": "community-mocks",
+    "desc": "Fork containing community mocks and tests for Microcks hub (community contribution).",
+    "image": "community-mocks",
+    "category": "microcks",
+    "links": {
+      "view": "https://github.com/vickybesra/community-mocks",
+      "code": "https://github.com/vickybesra/community-mocks"
+    }
+  },
+  {
+    "name": "microcks-quickstarters",
+    "desc": "Forked quickstarter templates to bootstrap Microcks mocks and testing projects quickly.",
+    "image": "microcks-quickstarters",
+    "category": "microcks",
+    "links": {
+      "view": "https://github.com/vickybesra/microcks-quickstarters",
+      "code": "https://github.com/vickybesra/microcks-quickstarters"
+    }
+  },
+  {
+    "name": "hub.microcks.io",
+    "desc": "Fork of the Microcks community hub site — resources and examples for the Microcks project.",
+    "image": "hub.microcks.io",
+    "category": "microcks",
+    "links": {
+      "view": "https://github.com/vickybesra/hub.microcks.io",
+      "code": "https://github.com/vickybesra/hub.microcks.io"
+    }
+  },
+  {
+    "name": "microcks.io",
+    "desc": "Forked microcks.io website resources and templates for API mocking/testing docs and site content.",
+    "image": "microcks.io",
+    "category": "website",
+    "links": {
+      "view": "https://github.com/vickybesra/microcks.io",
+      "code": "https://github.com/vickybesra/microcks.io"
+    }
+  },
+  {
+    "name": "first-contributions",
+    "desc": "Fork of the First Contributions project — a beginner-friendly guide to open-source contributions.",
+    "image": "first-contributions",
+    "category": "community",
+    "links": {
+      "view": "https://github.com/vickybesra/first-contributions",
+      "code": "https://github.com/vickybesra/first-contributions"
+    }
+  },
+  {
+    "name": "microcks2.io",
+    "desc": "Site/resources repo related to Microcks (alternate/experimental site copy).",
+    "image": "microcks2.io",
+    "category": "microcks",
+    "links": {
+      "view": "https://github.com/vickybesra/microcks2.io",
+      "code": "https://github.com/vickybesra/microcks2.io"
+    }
+  },
+  {
+    "name": "microcks_hub",
+    "desc": "Svelte-based hub or dashboard for Microcks community content and examples.",
+    "image": "microcks_hub",
+    "category": "svelte",
+    "links": {
+      "view": "https://github.com/vickybesra/microcks_hub",
+      "code": "https://github.com/vickybesra/microcks_hub"
+    }
+  },
+  {
+    "name": "go-chat-app",
+    "desc": "TypeScript/Go chat app experiments — lightweight chat server or client implementations.",
+    "image": "go-chat-app",
+    "category": "go",
+    "links": {
+      "view": "https://github.com/vickybesra/go-chat-app",
+      "code": "https://github.com/vickybesra/go-chat-app"
+    }
+  },
+  {
+    "name": "goDolt",
+    "desc": "Go utilities and experiments around Dolt (Go-based tooling and scripts).",
+    "image": "goDolt",
+    "category": "go",
+    "links": {
+      "view": "https://github.com/vickybesra/goDolt",
+      "code": "https://github.com/vickybesra/goDolt"
+    }
+  },
+  {
+    "name": "microcks_mocks",
+    "desc": "Supporting mocks and test collections for Microcks — helpful for API testing and examples.",
+    "image": "microcks_mocks",
+    "category": "microcks",
+    "links": {
+      "view": "https://github.com/vickybesra/microcks_mocks",
+      "code": "https://github.com/vickybesra/microcks_mocks"
+    }
+  },
+  {
+    "name": "my-project",
+    "desc": "Java project experimentation repo — sample apps and practice exercises.",
+    "image": "my-project",
+    "category": "java",
+    "links": {
+      "view": "https://github.com/vickybesra/my-project",
+      "code": "https://github.com/vickybesra/my-project"
+    }
+  },
+  {
+    "name": "microcks",
+    "desc": "Fork of the Microcks project (API mocking and testing) — commonly used for contributions and testing locally.",
+    "image": "microcks",
+    "category": "microcks",
+    "links": {
+      "view": "https://github.com/vickybesra/microcks",
+      "code": "https://github.com/vickybesra/microcks"
+    }
+  },
+  {
+    "name": "update-footer-year",
+    "desc": "Small website utility / PR demonstrating automated footer year updates (site maintenance utility).",
+    "image": "update-footer-year",
+    "category": "website",
+    "links": {
+      "view": "https://github.com/vickybesra/update-footer-year",
+      "code": "https://github.com/vickybesra/update-footer-year"
+    }
+  },
+  {
+    "name": "kubearmor.io",
+    "desc": "Fork of KubeArmor site — website assets and docs for KubeArmor project.",
+    "image": "kubearmor.io",
+    "category": "website",
+    "links": {
+      "view": "https://github.com/vickybesra/kubearmor.io",
+      "code": "https://github.com/vickybesra/kubearmor.io"
+    }
+  },
+  {
+    "name": "devops",
+    "desc": "General DevOps notes, scripts, or demos (playground for CI/CD and infra automation).",
+    "image": "devops",
+    "category": "devops",
+    "links": {
+      "view": "https://github.com/vickybesra/devops",
+      "code": "https://github.com/vickybesra/devops"
+    }
+  },
+  {
+    "name": "jobportal",
+    "desc": "Job portal demo site built with JavaScript — search, listing and basic user flows.",
+    "image": "jobportal",
+    "category": "javascript",
+    "links": {
+      "view": "https://github.com/vickybesra/jobportal",
+      "code": "https://github.com/vickybesra/jobportal"
+    }
+  },
+  {
+    "name": "my-project1",
+    "desc": "Forked Java project for experimentation and learning purposes.",
+    "image": "my-project1",
+    "category": "java",
+    "links": {
+      "view": "https://github.com/vickybesra/my-project1",
+      "code": "https://github.com/vickybesra/my-project1"
+    }
+  },
+  {
+    "name": "backend",
+    "desc": "Small backend test app — node/express or similar for API experiments and testing.",
+    "image": "backend",
+    "category": "backend",
+    "links": {
+      "view": "https://github.com/vickybesra/backend",
+      "code": "https://github.com/vickybesra/backend"
+    }
+  },
+  {
+    "name": "Netflix_clone",
+    "desc": "Frontend Netflix UI clone built in JavaScript — demonstrates layout, API integration and UI work.",
+    "image": "Netflix_clone",
+    "category": "javascript",
+    "links": {
+      "view": "https://github.com/vickybesra/Netflix_clone",
+      "code": "https://github.com/vickybesra/Netflix_clone"
+    }
+  },
+  {
+    "name": "bookStoreApp",
+    "desc": "Bookstore web app demo (JavaScript) for listing and searching books — frontend exercises.",
+    "image": "bookStoreApp",
+    "category": "javascript",
+    "links": {
+      "view": "https://github.com/vickybesra/bookStoreApp",
+      "code": "https://github.com/vickybesra/bookStoreApp"
+    }
+  },
+  {
+    "name": "todo_list",
+    "desc": "Simple JavaScript todo list app showcasing CRUD operations and local storage usage.",
+    "image": "todo_list",
+    "category": "javascript",
+    "links": {
+      "view": "https://github.com/vickybesra/todo_list",
+      "code": "https://github.com/vickybesra/todo_list"
+    }
+  },
+  {
+    "name": "calculator",
+    "desc": "Small HTML/JS calculator demo — basic UI and arithmetic logic examples.",
+    "image": "calculator",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/vickybesra/calculator",
+      "code": "https://github.com/vickybesra/calculator"
+    }
+  }
+]

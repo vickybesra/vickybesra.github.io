@@ -18,7 +18,6 @@
   { "name": "AWS", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" },
   { "name": "Heroku", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" },
   { "name": "Netlify", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-plain.svg" },
-  { "name": "DigitalOcean", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" },
   { "name": "jQuery", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" },
   { "name": "GitHub", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" },
   { "name": "Kubernetes", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" },
